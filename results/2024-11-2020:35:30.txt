@@ -1,0 +1,12 @@
+Chosen Parameters:
+  num_features: 2
+  normalization: False
+  norm_range: 1
+  fm_circuit: ZZFeatureMap
+  fm_reps: 1
+  fm_entanglement: full
+  ansatz_reps: 1
+  ansatz_entanglement: linear
+===================================================
+Quantum VQC on the training dataset: 0.63
+Quantum VQC on the test dataset:     0.61
